@@ -1,0 +1,20 @@
+D:\Ömer YİĞİT\Karar ve döngüler\hepsisurada\hepsisurada\bin\Debug\A-101.exe.config
+D:\Ömer YİĞİT\Karar ve döngüler\hepsisurada\hepsisurada\obj\Debug\A-101.exe
+D:\Ömer YİĞİT\Karar ve döngüler\hepsisurada\hepsisurada\obj\Debug\A-101.pdb
+D:\Ömer YİĞİT\Karar ve döngüler\hepsisurada\hepsisurada\bin\Debug\A-101.exe
+D:\Ömer YİĞİT\Karar ve döngüler\hepsisurada\hepsisurada\bin\Debug\A-101.pdb
+D:\Ömer YİĞİT\Karar ve döngüler\hepsisurada\hepsisurada\obj\Debug\hepsisurada.csprojResolveAssemblyReference.cache
+D:\Ömer YİĞİT\Karar ve döngüler\hepsisurada\hepsisurada\obj\Debug\hepsisurada.Form1.resources
+D:\Ömer YİĞİT\Karar ve döngüler\hepsisurada\hepsisurada\obj\Debug\hepsisurada.Form2.resources
+D:\Ömer YİĞİT\Karar ve döngüler\hepsisurada\hepsisurada\obj\Debug\hepsisurada.Properties.Resources.resources
+D:\Ömer YİĞİT\Karar ve döngüler\hepsisurada\hepsisurada\obj\Debug\hepsisurada.csproj.GenerateResource.Cache
+D:\Ömer YİĞİT\C#\2. Ünite\hepsisurada\hepsisurada\bin\Debug\A-101.exe.config
+D:\Ömer YİĞİT\C#\2. Ünite\hepsisurada\hepsisurada\obj\Debug\A-101.exe
+D:\Ömer YİĞİT\C#\2. Ünite\hepsisurada\hepsisurada\obj\Debug\A-101.pdb
+D:\Ömer YİĞİT\C#\2. Ünite\hepsisurada\hepsisurada\bin\Debug\A-101.exe
+D:\Ömer YİĞİT\C#\2. Ünite\hepsisurada\hepsisurada\bin\Debug\A-101.pdb
+D:\Ömer YİĞİT\C#\2. Ünite\hepsisurada\hepsisurada\obj\Debug\hepsisurada.csprojResolveAssemblyReference.cache
+D:\Ömer YİĞİT\C#\2. Ünite\hepsisurada\hepsisurada\obj\Debug\hepsisurada.Form1.resources
+D:\Ömer YİĞİT\C#\2. Ünite\hepsisurada\hepsisurada\obj\Debug\hepsisurada.Form2.resources
+D:\Ömer YİĞİT\C#\2. Ünite\hepsisurada\hepsisurada\obj\Debug\hepsisurada.Properties.Resources.resources
+D:\Ömer YİĞİT\C#\2. Ünite\hepsisurada\hepsisurada\obj\Debug\hepsisurada.csproj.GenerateResource.Cache
